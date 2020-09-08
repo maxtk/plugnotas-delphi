@@ -1,4 +1,4 @@
-Demonstração para requisições para o Plug Notas em Delphi. 
+Demonstração para requisições para o Plug Notas em Delphi XE. 
 
 Requisições e exemplos contidos na demonstração:
 - Enviar Nota
