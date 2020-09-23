@@ -1,10 +1,16 @@
-Demonstração para requisições para o Plug Notas em Delphi XE. 
+Demonstração em Delphi XE, para integração com o PlugNotas.
 
 Requisições e exemplos contidos na demonstração:
-- Enviar Nota
-- Consultar Nota
-- Imprimir Nota
-- Upload de certificado digital
-- Formatação de respostas JSON.
+- Enviar Nota;
+- Consultar Nota;
+- Imprimir Nota;
+- Upload de certificado digital;
+- Formatação de respostas JSON;
 
-Mais detalhes: https://docs.plugnotas.com.br
+Site: http://plugnotas.com.br
+
+Interface Web: https://app.plugnotas.com.br
+
+Atendimento ao cliente: https://atendimento.tecnospeed.com.br
+
+Documentação: https://docs.plugnotas.com.br
